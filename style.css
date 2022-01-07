@@ -1,5 +1,13 @@
 p {
   color: red;
   width: 500px;
-  border: 1px solid black;
+}
+
+.quote {
+  color: green;
+  border: 6px solid black;
+}
+
+#mainquote {
+  color: purple;
 }
